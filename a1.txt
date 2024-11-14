@@ -1,2 +1,7 @@
 a1
+<<<<<<< HEAD
 modified again in master
+=======
+modified in first
+>>>>>>> first
+merge conflict resolved
